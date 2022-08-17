@@ -1,0 +1,41 @@
+.bg-fondo{
+background-color: #A8D9F1;
+}
+.majo{
+    width: 90px;
+    height: 90px;
+} 
+li{
+    list-style: none;}
+
+.foto{
+    width: 30%;
+    height: 250px;
+}
+.instagram{
+    width: 70px;
+    height: 50px;
+}
+body{
+    background-color: aliceblue;
+}
+footer{
+    background-color: #A8D9F1;
+    width: 100%;
+    height: 140px;
+    
+}
+.liconos{
+    display: contents;
+    justify-content: center;
+}
+
+.iconos {
+
+    
+    width: 30px;
+    height: 30px;
+    justify-content: space-between;
+    
+    
+}
